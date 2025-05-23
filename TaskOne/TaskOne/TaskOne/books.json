@@ -1,0 +1,38 @@
+[
+    {
+        "Author": "Jane Austen",
+        "Isbn": "539p",
+        "Title": "Pride and Prejudice",
+        "isAvailable": true
+    },
+    {
+        "Author": "George Orwell",
+        "Isbn": "660g",
+        "Title": "1984",
+        "isAvailable": true
+    },
+    {
+        "Author": "Harper Lee",
+        "Isbn": "2411k",
+        "Title": "To Kill a Mackingbird ",
+        "isAvailable": true
+    },
+    {
+        "Author": "Khaled Hosseini",
+        "Isbn": "346k",
+        "Title": "The Kita Runner",
+        "isAvailable": true
+    },
+    {
+        "Author": "Markus Zusak",
+        "Isbn": "345b",
+        "Title": "The Book Thief",
+        "isAvailable": true
+    },
+    {
+        "Author": "Tara Westover",
+        "Isbn": "800e",
+        "Title": "Educated",
+        "isAvailable": true
+    }
+]
